@@ -1,0 +1,8 @@
+[gd_resource type="ProjectSettings" load_steps=2 format=2]
+
+[application]
+config/name="1654 RTS Prototype"
+run/main_scene="res://scenes/Main.tscn"
+
+[rendering]
+quality/intended_usage/framebuffer_allocation=2
