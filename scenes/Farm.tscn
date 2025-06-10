@@ -1,0 +1,9 @@
+[gd_scene load_steps=1 format=2]
+
+[node name="Farm" type="Sprite2D"]
+scale = Vector2(1, 1)
+texture = null
+script = ExtResource(1)
+
+[editable]
+time_since_last_production = 0.0
